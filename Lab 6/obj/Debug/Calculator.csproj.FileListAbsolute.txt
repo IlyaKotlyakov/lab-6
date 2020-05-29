@@ -1,0 +1,18 @@
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Calculator\bin\Debug\Calculator.exe
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Calculator\obj\Debug\Calculator.exe
+C:\Users\ikotl\Pictures\Saved Pictures\lab-3-egorov-ss-finished\Calculator\obj\Debug\Calculator.pdb
+E:\labs c# 6 семестр\Lab 6\bin\Debug\Calculator.exe.config
+E:\labs c# 6 семестр\Lab 6\bin\Debug\Calculator.exe
+E:\labs c# 6 семестр\Lab 6\bin\Debug\Calculator.pdb
+E:\labs c# 6 семестр\Lab 6\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\labs c# 6 семестр\Lab 6\obj\Debug\Calculator.CalculatorForm.resources
+E:\labs c# 6 семестр\Lab 6\obj\Debug\Calculator.Properties.Resources.resources
+E:\labs c# 6 семестр\Lab 6\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\labs c# 6 семестр\Lab 6\obj\Debug\Calculator.exe
+E:\labs c# 6 семестр\Lab 6\obj\Debug\Calculator.pdb
